@@ -2,6 +2,10 @@
 
 WebGL prototype used during the development phase of [Luxoperon](https://github.com/SubmarineInteractive/Lux-Operon/) project.
 
+
+Demo : [http://waves.luxoperon.io/](http://waves.luxoperon.io/)
+
+
 ![Waves prototype](https://i.imgsafe.org/bf2716f80f.png)
 
 It shows WebGL waves generated using GLSL noise. The GUI interface allows to quickly modify multiple parameters like 'Fog', 'Post-processing', etc...
